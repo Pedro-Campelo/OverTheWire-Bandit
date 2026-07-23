@@ -29,10 +29,15 @@ typing 'yes'. After doing that I entered the password and successfully logged in
 
 ## Command Breakdown
 'ssh' - Starts an SSH connection
+
 'bandit0' - Username used to authenticate
+
 '@' - Separates the username from the host
+
 'bandit.labs.overthewire.org' - Remote server hostname
+
 '-p' - Specifies a custom port
+
 '2220' - Port used by the bandit server
 
 ## Screenshot of my work
