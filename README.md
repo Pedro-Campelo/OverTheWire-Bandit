@@ -1,8 +1,5 @@
 # OverTheWire - Bandit
 
-<img width="524" height="178" alt="image" src="https://github.com/user-attachments/assets/54975971-750b-4130-98c3-63674c036195" />
-
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/Pedro-Campelo/OverTheWire-Bandit)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Pedro-Campelo/OverTheWire-Bandit)
 ![Markdown](https://img.shields.io/badge/Built_with-Markdown-blue)
