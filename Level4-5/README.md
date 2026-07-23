@@ -34,8 +34,8 @@ until I could read the output. I was unhappy with this approach and researched q
 ```bash
 file ./*
 ```
-This command lists all files in the directory along with that files file type.
-I then discovered that `"human readable"` files are usually wrote in:
+This command inspects all files in the directory and reports what type of file it is.
+I then discovered that `"human readable"` file are usually stored as:
 - `ASCII text`
 - `Unicode text`
 - `UTF-8 text`
@@ -63,13 +63,19 @@ file ./*
 <img width="1158" height="518" alt="image" src="https://github.com/user-attachments/assets/acf4d0ed-ebf2-4e61-b24b-b4ecdd3d6862" />
 
 ## Challenges I faced
-
+My initial approach worked, but it wasn't very efficient because I had to open each file individually until I found the correct one.
+Instead of settling for the first solution, I researched a more efficient method and discovered the `file` command, 
+which allowed me to identify the human-readable file immediately.
 
 ## What I Learned
-
+- The `file` command can identify the type of a file without opening it.
+- Human-readable files are often identified as ASCII or UTF-8 text.
+- There is often more than one way to solve a Linux problem, but some methods are more efficient than others.
 
 ## Key Takeaways
-
+- The first solution isn't always the best solution.
+- Linux provides tools that can inspect files before you open them.
+- Learning new commands can make solving future problems much faster.
 
 ## How to login to next level
 Once you've retrieved the password, connect to the next level using:
