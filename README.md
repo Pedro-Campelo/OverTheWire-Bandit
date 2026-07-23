@@ -1,15 +1,13 @@
 # OverTheWire - Bandit
 
+<p align="center">
+  <img src="https://overthewire.org/img/bandit.svg" width="120">
+</p>
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/Pedro-Campelo/OverTheWire-Bandit)
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/Pedro-Campelo/OverTheWire-Bandit)
-
-![License](https://img.shields.io/github/license/Pedro-Campelo/OverTheWire-Bandit)
-
 ![Markdown](https://img.shields.io/badge/Built_with-Markdown-blue)
-
 ![Linux](https://img.shields.io/badge/Linux-Terminal-success)
-
 ![Status](https://img.shields.io/badge/Progress-In_Progress-orange)
 
 ## About
