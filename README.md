@@ -1,8 +1,10 @@
 # OverTheWire - Bandit
 
-<p align="center">
-  <img src="https://overthewire.org/img/bandit.svg" width="120">
-</p>
+ _                     _ _ _
+| |__   __ _ _ __   __| (_) |_
+| '_ \ / _ `| _ \ / _` | | __|
+| |_) | (_| | | | | (_| | | |_
+|_.__/ \__,_|_| |_|\__,_|_|\__|
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Pedro-Campelo/OverTheWire-Bandit)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Pedro-Campelo/OverTheWire-Bandit)
