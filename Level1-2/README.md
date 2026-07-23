@@ -29,9 +29,12 @@ cat -
 ```
 
 When I ran this command nothing happened so I pressed `CTRL + C` to stop the proccess and went to find out what went wrong.
-I discovered that went you enter `cat -` `cat` interprets `-` as standard input (stdin), not as a filename, so instead of opening a file called `-`
-it waits for you to type something.
-So instead of writing: 
+I discovered that went you enter 
+```bash
+cat -
+```
+`cat` interprets `-` as standard input (stdin), not as a filename, so instead of opening a file called `-`
+it waits for you to type something. So instead of writing: 
 ```bash
 cat -
 ```
@@ -39,7 +42,7 @@ I wrote
 ```bash
 cat ./-
 ```
-The reason I wrote `./-` is because I want `cat` do look in the current directory for the file `"-"`
+The reason I wrote `./-` is because I want `cat` to look in the current directory for the file `"-"`
 
 ## Command Breakdown
 ```bash
