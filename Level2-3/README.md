@@ -28,7 +28,7 @@ I encased the filename in quotation marks and therefore ran the command:
 ```bash
 cat ./"--spaces in this filename--"
 ```
-`./` isn't required in this level because the filename doesn't start with `-`, but I used it anyway because it explicitly tells the command to look in the home directory
+`./` isn't required in this level because the filename doesn't start with `-`, but I used it anyway because it explicitly tells the command to look in the home directory.
 Which successfully gave me the password for this level.
 
 ## Command Breakdown
