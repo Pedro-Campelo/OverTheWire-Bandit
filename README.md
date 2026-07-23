@@ -5,7 +5,7 @@
 ![Markdown](https://img.shields.io/badge/Built_with-Markdown-blue)
 ![Linux](https://img.shields.io/badge/Linux-Terminal-success)
 ![Status](https://img.shields.io/badge/Progress-In_Progress-orange)
-![License](https://img.shields.io/github/license/Pedro-Campelo/OverTheWire-Bandit)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
