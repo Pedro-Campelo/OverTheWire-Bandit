@@ -87,6 +87,6 @@ pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
 
 🏠 [Repository Home](https://github.com/Pedro-Campelo/OverTheWire-Bandit)
 
-⬅️ [Previous: Level 4-5](../Level4-5/README.md)
+⬅️ [Previous: Level 4-5](../04-05/README.md)
 
-➡️ [Next: Level 6-7](../Level6-7/README.md)
+➡️ [Next: Level 6-7](../06-07/README.md)
