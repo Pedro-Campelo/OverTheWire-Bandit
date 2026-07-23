@@ -1,9 +1,16 @@
 # OverTheWire - Bandit
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Pedro-Campelo/OverTheWire-Bandit)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/Pedro-Campelo/OverTheWire-Bandit)
-![Platform](https://img.shields.io/badge/Platform-Linux-blue)
-![Language](https://img.shields.io/badge/Documentation-Markdown-orange)
+
+![License](https://img.shields.io/github/license/Pedro-Campelo/OverTheWire-Bandit)
+
+![Markdown](https://img.shields.io/badge/Built_with-Markdown-blue)
+
+![Linux](https://img.shields.io/badge/Linux-Terminal-success)
+
+![Status](https://img.shields.io/badge/Progress-In_Progress-orange)
 
 ## About
 This repository documents my journey and experience through the OverTheWire "Bandit" wargame
