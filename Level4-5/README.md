@@ -39,6 +39,7 @@ I then discovered that `"human readable"` files are usually wrote in:
 - `ASCII text`
 - `Unicode text`
 - `UTF-8 text`
+
 so I used this new knowledge and discovered that `-file07`'s file type is `ASCII text` meaning it is human-readable. So I ran the command
 ```bash
 cat ./file07
