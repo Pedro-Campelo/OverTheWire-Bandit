@@ -55,11 +55,11 @@ file ./*
 - `*` - Means every file in this directory
 
 ## Screenshot of my work
-First Approach:
+###First Approach:
 <img width="1173" height="493" alt="image" src="https://github.com/user-attachments/assets/71ed9666-53d1-438a-918a-c2c528fa53af" />
 
 
-Second Approach:
+###Second Approach:
 <img width="1158" height="518" alt="image" src="https://github.com/user-attachments/assets/acf4d0ed-ebf2-4e61-b24b-b4ecdd3d6862" />
 
 ## Challenges I faced
