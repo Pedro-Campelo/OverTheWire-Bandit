@@ -19,12 +19,12 @@ The password is in a file in the directory `inhere` that has the following prope
 
 ## Background Research
 Before attempting this level I researched more about the `find` command and discovered that you can add arguments to it like you can with `ls -a`. I discovered that there are 
-options that is useful for this level:
+arguments that are useful for this level:
 - `-readable` which shows me only files i have permission to read
 - `size 1033c` which shows me only files with a size of 1033 bytes (c)
 - `! -executable` The `!` means `"NOT"` so its saying to show only files that are not executable
 
-I also discovered that there is multiple size prefixes some of them being:
+I also discovered that there are multiple size prefixes, some of them being:
 - `c` - Bytes
 - `k` - KiB (1024 bytes)
 - `M` - Mib (1024^2^ bytes)
