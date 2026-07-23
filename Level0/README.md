@@ -28,17 +28,12 @@ When I connected for the first time my computer reported that the authenticity o
 typing 'yes'. After doing that I entered the password and successfully logged into the server as bandit0
 
 ## Command Breakdown
-'ssh' - Starts an SSH connection
-
-'bandit0' - Username used to authenticate
-
-'@' - Separates the username from the host
-
-'bandit.labs.overthewire.org' - Remote server hostname
-
-'-p' - Specifies a custom port
-
-'2220' - Port used by the bandit server
+- 'ssh' - Starts an SSH connection
+- 'bandit0' - Username used to authenticate
+- '@' - Separates the username from the host
+- 'bandit.labs.overthewire.org' - Remote server hostname
+- '-p' - Specifies a custom port
+- '2220' - Port used by the bandit server
 
 ## Screenshot of my work
 <img width="858" height="569" alt="image" src="https://github.com/user-attachments/assets/874d4fff-b47c-43be-86f1-2be8381a0e78" />
