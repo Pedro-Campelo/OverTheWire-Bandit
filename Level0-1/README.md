@@ -55,6 +55,6 @@ The main challenge was understanding which commands should be used for this leve
 
 🏠 [Repository Home](https://github.com/Pedro-Campelo/OverTheWire-Bandit)
 
-⬅️ [Previous: Level 0](../Level-0/README.md)
+⬅️ [Previous: Level 0](../Level0/README.md)
 
 ➡️ [Next: Level 1-2](../Level1-2/README.md)
