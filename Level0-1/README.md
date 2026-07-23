@@ -40,6 +40,7 @@ Displays the contents of the `readme` file in the terminal.
 ## Screenshot of my work
 <img width="673" height="206" alt="image" src="https://github.com/user-attachments/assets/58844a62-fb90-40be-9fce-281f2a4a61b4" />
 
+
 ## Challenges I faced
 This level was fairly straightforward after learning the `ls` and `cat` commands.
 The main challenge was understanding which commands should be used for this level
@@ -53,6 +54,17 @@ The main challenge was understanding which commands should be used for this leve
 - Used `ls` to inspect directory contents.
 - Used `cat` to read a text file.
 - Successfully retrieved the password for the next level.
+
+## How to login to next level
+Once you've retrieved the password, connect to the next level using:
+
+```bash
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+```
+Then enter the password:
+```text
+6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+```
 
 ## Navigation
 
