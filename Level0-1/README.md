@@ -1,5 +1,16 @@
 # Bandit Level 0-1
 
+## How to login to the level
+Connect to this level by using:
+
+```bash
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
+Then enter the password:
+```text
+bandit0
+```
+
 ## Objective
 Find the file called `readme` in the home directory and read it's contents for the password. Then log into the next level using that password and continue the game.
 
