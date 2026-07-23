@@ -72,6 +72,6 @@ Then enter the password:
 
 🏠 [Repository Home](https://github.com/Pedro-Campelo/OverTheWire-Bandit)
 
-⬅️ [Previous: Level 1-2](../Level1-2/README.md)
+⬅️ [Previous: Level 1-2](../01-02/README.md)
 
-➡️ [Next: Level 3-4](../Level3-4/README.md)
+➡️ [Next: Level 3-4](../03-04/README.md)
