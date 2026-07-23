@@ -42,7 +42,8 @@ I wrote
 ```bash
 cat ./-
 ```
-The reason I wrote `./-` is because I want `cat` to look in the current directory for the file `"-"`
+Prefixing the filename with `./` explicitly tells `cat` to look for a file named `-` in the current working directory rather 
+than interpreting `-` as standard input.
 
 ## Command Breakdown
 ```bash
@@ -63,7 +64,9 @@ This level was fairly straightforward after realising I have to use the files pa
 - When I use `-` after a command it is treated as an option not as a filename
 
 ## Key Takeaways
-
+- Not every filename can be accessed by simply typing its name.
+- `./` tells Linux to treat `-` as a filename in the current directory.
+- Understanding *why* a command fails is just as important as knowing the correct solution.
 
 ## How to login to next level
 Once you've retrieved the password, connect to the next level using:
