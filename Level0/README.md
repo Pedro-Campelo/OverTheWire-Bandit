@@ -57,4 +57,4 @@ typing 'yes'. After doing that I entered the password and successfully logged in
 
 🏠 [Home](../README.md)
 
-➡️ [Next: Level 1](../level0-1/README.md)
+➡️ [Next: Level 1](../Level0-1/README.md)
