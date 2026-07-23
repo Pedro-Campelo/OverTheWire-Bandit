@@ -10,18 +10,17 @@
 
 ## Project Overview
 
-This repository documents my progress and experience through the **OverTheWire Bandit** Linux wargame.
-Rather than simply recording the passwords for each level, I explain the process I followed, the Linux commands I used, and what I learned while solving each challenge.
+This repository documents my progress through the **OverTheWire Bandit** Linux wargame.
 
----
+Rather than simply recording the passwords for each level, I explain my approach, the Linux commands I used, the challenges I encountered, and the concepts I learned while solving each level.
 
-Each level contains:
+### Each level includes:
 
 - Objective
 - My approach
 - Commands used
-- Explanation of the solution
-- What I learned
+- Solution explanation
+- Key takeaways
 
 ---
 
@@ -30,7 +29,7 @@ Each level contains:
 - Linux Administration Fundamentals
 - Bash & Command-Line Operations
 - Secure Shell (SSH)
-- File Systems & Permissions
+- Linux File Systems & Permissions
 - Text Processing & Data Manipulation
 - Troubleshooting & Problem Solving
 - Technical Documentation
@@ -40,7 +39,7 @@ Each level contains:
 
 ## Purpose
 
-This project is part of my cybersecurity learning journey and is intended to demonstrate practical Linux knowledge and problem-solving skills through structured documentation.
+This repository forms part of my cybersecurity learning journey and serves as a portfolio project to demonstrate my practical Linux knowledge, command-line skills, and structured approach to problem solving.
 
 ---
 
@@ -48,4 +47,4 @@ This project is part of my cybersecurity learning journey and is intended to dem
 
 These write-ups are based on my own learning experience while completing the OverTheWire Bandit wargame.
 
-The focus of this repository is to demonstrate my understanding of Linux concepts rather than simply provide answers.
+The purpose of this repository is to document my understanding of Linux concepts and command-line techniques rather than simply provide answers.
