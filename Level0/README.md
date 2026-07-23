@@ -55,6 +55,6 @@ typing 'yes'. After doing that I entered the password and successfully logged in
 
 ## Navigation
 
-🏠 [Home](https://github.com/Pedro-Campelo/OverTheWire-Bandit/tree/main)
+🏠 [Repository Home](https://github.com/Pedro-Campelo/OverTheWire-Bandit)
 
 ➡️ [Next: Level 1](../Level0-1/README.md)
