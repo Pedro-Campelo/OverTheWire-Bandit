@@ -2,7 +2,6 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Pedro-Campelo/OverTheWire-Bandit)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Pedro-Campelo/OverTheWire-Bandit)
-![Progress](https://img.shields.io/badge/Progress-Level%200-green)
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue)
 ![Language](https://img.shields.io/badge/Documentation-Markdown-orange)
 
