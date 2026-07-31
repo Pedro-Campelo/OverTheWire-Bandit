@@ -42,6 +42,8 @@ Which gave me the password for me to continue the challenge
 ## Screenshot of my work
 <img width="1129" height="259" alt="image" src="https://github.com/user-attachments/assets/69ea6996-681b-40a2-8ce9-6c9fa5d73e0f" />
 
+---
+
 <img width="749" height="59" alt="image" src="https://github.com/user-attachments/assets/f0a0d1c4-8154-4310-a645-57d8be2ef8f3" />
 
 
