@@ -12,11 +12,10 @@ VR1ljMayciFxbnUokuQmJFw6QC9VKtub
 ```
 
 ## Objective
-Find the password which is stored in the `data.txt` file next to the word `millionth`
+Find the password which is stored in the file data.txt and is the only line of text that occurs only once
 
 ## Background Research
-I searched up how to find a specific word in a `.txt` file in linux and discovered the `grep` command.
-This command is used to search for specific words, phrases or patterns inside text files.
+I searched up how to sort a text 
 
 ## My Approach
 OverTheWire provided me with the information:
@@ -40,7 +39,7 @@ grep "millionth" data.txt
 `data.txt` - The file the word is in
 
 ## Screenshot of my work
-<img width="652" height="66" alt="image" src="https://github.com/user-attachments/assets/96ca3e27-c26a-4b5f-84c5-91e5ab6b3d37" />
+<img width="745" height="55" alt="image" src="https://github.com/user-attachments/assets/96ed6f90-05e6-43b5-9aba-b4e1b0173e2f" />
 
 ## Challenges I faced
 - The challenge was fairly straightforward after I discovered what the grep command is and how to use it
@@ -60,7 +59,7 @@ ssh bandit9@bandit.labs.overthewire.org -p 2220
 ```
 Then enter the password:
 ```text
-
+EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
 ```
 
 ## Navigation
